@@ -17,3 +17,5 @@ In this Project, I have used Kotlin language and build this app for user so that
 - 2026-10-18: README refreshed.
 
 - 2026-10-18: evening docs refresh.
+
+- 2026-10-20: README refreshed.
