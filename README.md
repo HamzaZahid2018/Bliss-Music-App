@@ -29,3 +29,4 @@ In this Project, I have used Kotlin language and build this app for user so that
 - 2026-10-29: README refreshed.
 
 - 2026-10-30: README refreshed.
+- - 2026-11-01: README refreshed.
